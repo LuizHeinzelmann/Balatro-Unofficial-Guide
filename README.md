@@ -2,7 +2,7 @@
 Um guia não oficial do brilhante jogo de cartas Balatro!
 SITE EM DESENVOLVIMENTO!
 
-https://profound-sunburst-2200a3.netlify.app/#curingas
+https://sparkly-gelato-489622.netlify.app
 
 Recursos futuros:
 responsividade para mobile,
